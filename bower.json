@@ -1,5 +1,8 @@
 {
   "name": "chaplin",
   "version": "0.9.0",
-  "main": "brunch/chaplin.js"
+  "main": "brunch/chaplin.js",
+  "dependencies": {
+    "backbone": ">= 1.0.0"
+  }
 }
